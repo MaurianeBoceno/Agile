@@ -18,10 +18,12 @@ public class Driver
 	public static GuiModel model;
 	Reader reader;
 	
+}
 	public static void main(String[] args)
 	{
 		Driver app = new Driver();
-	}
+
+	
 	
 	public Driver()
 	{
