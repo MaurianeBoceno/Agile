@@ -189,6 +189,10 @@ public class Person
 	
 	}
 
+public void setSiblings2(ArrayList<Person> siblings) 
+	{
+		this.siblings = siblings;
+	}
 
 	}
 
